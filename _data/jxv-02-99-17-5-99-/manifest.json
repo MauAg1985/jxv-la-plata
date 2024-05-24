@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://MauAg1985.github.io/jxv-la-plata/jxv-02-99-17-5-99-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "JxV 02-99 (17-5-99)" ] },
+    "items": [
+      {
+        "id": "https://MauAg1985.github.io/jxv-la-plata/jxv-02-99-17-5-99-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 9569.587,
+        "items": [
+          {
+            "id": "https://MauAg1985.github.io/jxv-la-plata/jxv-02-99-17-5-99-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://MauAg1985.github.io/jxv-la-plata/jxv-02-99-17-5-99-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 9569.587
+                },
+                "target": "https://MauAg1985.github.io/jxv-la-plata/jxv-02-99-17-5-99-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
