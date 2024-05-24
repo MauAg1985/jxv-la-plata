@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Juicios Por la Verdad La Plata" ] },
+    "summary": { "en": [ "Basándose en la doctrina del derecho a la verdad, organismos de DD HH de La Plata resolvieron\r\nrealizar una presentación ante la Cámara Federal de Apelaciones de dicha ciudad pidiendo que se\r\ninvestigaran los crímenes cometidos durante la dictadura. En abril de 1998, en el marco de dicha\r\npresentación, la Cámara dicta la resolución 18/98 por la cual establece el derecho de los familiares de\r\nlas víctimas a “conocer cuáles fueron las circunstancias relacionadas con la desaparición de ellas y en\r\nsu caso el destino final de sus restos” (Resolución 18/98). A fines de septiembre de ese año,\r\ncomenzaron las audiencias que se prolongaron por más de quince años, hasta 2014." ] },
+    "items": [
+    ]
+}
